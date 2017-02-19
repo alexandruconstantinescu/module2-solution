@@ -14,6 +14,10 @@
  	right: 0;
  	border: 1px solid black;
  	font-size: 1.25rem;
+ 	padding-right: 5px;
+ 	padding-left: 5px;
+ 	padding-bottom: 5px;
+ 	padding-top: 5px;
  }
 
  #section1, #section2, #section3 {
@@ -24,10 +28,10 @@
 
  #section1 .content, #section2 .content, #section3 .content {
  	font-size: 1rem;
- 	background-color: #0DD37E; 
+ 	background-color: #ada9a9; 
  	position: relative;
  	border:1px solid black;
- 	padding-top: 12px;
+ 	padding-top: 20px;
  	padding-left: 12px;
  	padding-right: 12px;
 
@@ -36,16 +40,16 @@
  }
  
 #section1 .title {
-	background-color: #065C37;
+	background-color: #D59898;
 
 }
 
 #section2 .title {
-	background-color: #B95B37;
+	background-color: #C14543;
 }
 
 #section3 .title {
-	background-color: #0D4EE1;
+	background-color: #E5D198;
 }
 
 /* desktop  */
